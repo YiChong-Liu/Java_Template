@@ -2,6 +2,7 @@
 import java.util.Scanner;
 import Collections_Framework.Hero;
 
+//ArrayList的基本操作
 public class _ArrayList {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
